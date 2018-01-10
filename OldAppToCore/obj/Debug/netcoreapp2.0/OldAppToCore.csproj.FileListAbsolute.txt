@@ -1,0 +1,11 @@
+C:\Users\Csilla\greenfox\OldAppToCore\OldAppToCore\bin\Debug\netcoreapp2.0\OldAppToCore.deps.json
+C:\Users\Csilla\greenfox\OldAppToCore\OldAppToCore\bin\Debug\netcoreapp2.0\OldAppToCore.runtimeconfig.json
+C:\Users\Csilla\greenfox\OldAppToCore\OldAppToCore\bin\Debug\netcoreapp2.0\OldAppToCore.runtimeconfig.dev.json
+C:\Users\Csilla\greenfox\OldAppToCore\OldAppToCore\bin\Debug\netcoreapp2.0\OldAppToCore.dll
+C:\Users\Csilla\greenfox\OldAppToCore\OldAppToCore\bin\Debug\netcoreapp2.0\OldAppToCore.pdb
+C:\Users\Csilla\greenfox\OldAppToCore\OldAppToCore\obj\Debug\netcoreapp2.0\OldAppToCore.csprojResolveAssemblyReference.cache
+C:\Users\Csilla\greenfox\OldAppToCore\OldAppToCore\obj\Debug\netcoreapp2.0\OldAppToCore.csproj.CoreCompileInputs.cache
+C:\Users\Csilla\greenfox\OldAppToCore\OldAppToCore\obj\Debug\netcoreapp2.0\OldAppToCore.AssemblyInfoInputs.cache
+C:\Users\Csilla\greenfox\OldAppToCore\OldAppToCore\obj\Debug\netcoreapp2.0\OldAppToCore.AssemblyInfo.cs
+C:\Users\Csilla\greenfox\OldAppToCore\OldAppToCore\obj\Debug\netcoreapp2.0\OldAppToCore.dll
+C:\Users\Csilla\greenfox\OldAppToCore\OldAppToCore\obj\Debug\netcoreapp2.0\OldAppToCore.pdb
